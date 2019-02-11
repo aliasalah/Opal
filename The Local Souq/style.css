@@ -1,0 +1,254 @@
+*
+{margin: 0;
+padding: 0;
+font-family:monospace;
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {widthy: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+        
+.row
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.headdiv
+{
+    background-color: black;
+    height: 25pt;
+    padding-top: 3pt;
+}
+
+#searchbar{
+   border-color: burlywood; 
+    
+}
+.hed p ,.headdiv a
+{
+    margin-left: 20pt;
+    color: silver;
+    text-decoration: none;
+}
+.headright
+{
+    margin-top: 3pt;
+    display: flex;
+    float: right; 
+    margin-right: 20pt;
+}
+.headleft
+{
+    margin-top: 3pt;
+    display: flex;
+}
+
+/*search*/
+.ser
+{
+    
+}
+.ser img
+{
+    max-width: 100%;
+   margin-left: 20pt;
+    
+   
+}
+input
+{
+    width: 400pt;
+    height: 20pt;
+    margin-left: 150pt;
+    margin-top: 10pt;
+}
+#mag
+{
+    margin-top: 10pt;
+    background-color: aqua;
+    height: 20pt;
+    border-bottom-right-radius: 5pt;
+    border-top-right-radius: 5pt;
+    
+}
+#mag:hover
+{
+    background-color: blue;
+}
+/* Dropdown Button */
+.dropbtn {
+  background-color:blueviolet;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+ border-radius: 10pt;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+    margin-left: /*40*/20pt;
+    margin-top: 2pt;
+    
+}
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 100x;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block ;}
+.dropdown-content a{display: block ;}
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: skyblue;}
+.stc
+{
+    background-color: white;
+    position: sticky;
+  top: 0;
+}
+#FreeShippingtext{
+    display: none;
+position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+color:black;}
+#FreeShipping:hover #FreeShippingtext {display: block;}
+/*navigator*/
+   .nav 
+{
+
+           
+            background-color: black;
+            display: flex;
+            flex-wrap: wrap;
+        }
+ #nav
+{
+        height: 50pt;
+             list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+             background-color:black;
+           }
+
+div ul li a:hover{
+   color: cadetblue;
+}
+ li a
+ {
+     color:gray;
+   text-decoration: none;           
+}
+                    
+          #flist
+                    {
+                        list-style: none;
+                        margin-left: 8pt;
+                        
+                    }
+                    .limarg{
+                        margin-left: 10pt;
+                        margin-top: 3pt;
+                    }
+#picdiv{
+   width: 100%;
+}
+#products {
+    
+margin-left: 80px;
+}
+#product img{
+    //display: block;
+    height: 190px;
+    display: block;
+}
+#product {
+    font-size: 22;
+     width: 300px;
+    height: 350px;
+    display: inline-block;
+}
+#product button{
+    border-radius: 8px;
+    width: 30px;
+    height: 30px;
+    margin-left: 70;
+    font-family: fantasy;
+    background-color: lightcyan;
+}
+#product button:focus{
+    outline:0;
+}
+#product label{
+    margin-left: 60px;
+
+}
+#products img{
+    
+margin-left: 80px;
+}
+#picdiv #im1
+{
+    width: 700;
+    height: 400;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+   /* margin-left: auto;*/
+     //margin: 10px auto;
+   /* margin-top: 20pt;*/
+}
+#cart{
+  position: relative;
+    width: 50px;
+    left: 60px;
+   background-color: white;
+}
+#cart:hover{
+
+   background-color: red;
+}
+#left , #right
+{
+    width: 50;
+    height: 50; 
+    position: absolute;
+    top: 350;
+    left: 190pt;
+}
+#right
+{
+   left: 690pt; 
+}
+.footer
+{
+    background-color: silver;
+    
+}
+#footer
+{
+    margin: 10pt;
+    margin-bottom: 20pt;
+}
