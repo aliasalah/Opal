@@ -1,0 +1,110 @@
+{
+    "_id": "5c60277644ccb27572c364b1",
+    "Title": "{Laptops}",
+    "Products": [
+      {
+        "id": 0,
+        "description": "In anim velit magna dolore sit minim non tempor. Lorem velit culpa Lorem sunt velit. Et do mollit elit excepteur qui velit sit mollit tempor. Laborum do aute adipisicing esse anim qui incididunt cillum minim dolor dolor. Velit ipsum consectetur veniam est minim amet laborum non adipisicing consequat voluptate minim eu. Fugiat cupidatat non ipsum eiusmod adipisicing.\r\n",
+        "quantity": 20,
+        "companyName": "GENMEX",
+        "warranty": 3,
+        "price": "3,995.40",
+        "Title": "Carey",
+        "images": [
+          "https://images-na.ssl-images-amazon.com/images/G/01/pc/ac/es-gaming-white.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lenovo_G500s_laptop-2905.jpg"
+        ]
+      },
+      {
+        "id": 1,
+        "description": "Nulla non consequat est commodo occaecat dolore sint est aliquip est duis esse in. Ut Lorem et exercitation cupidatat eu ad ad deserunt. Incididunt consequat anim est et ullamco voluptate velit reprehenderit culpa qui labore non.\r\n",
+        "quantity": 7,
+        "companyName": "MICROLUXE",
+        "warranty": 2,
+        "price": "5,895.33",
+        "Title": "Josefa",
+        "images": [
+          "https://www.costco.ca/wcsstore/CostcoCABCCatalogAssetStore/category-tiles/2-in-1-laptops.jpg",
+          "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05975535.png"
+        ]
+      },
+      {
+        "id": 2,
+        "description": "Veniam pariatur sunt cupidatat in ipsum aliqua laboris esse nulla. Fugiat ea Lorem consectetur fugiat ullamco fugiat. Fugiat et id eiusmod reprehenderit ut labore cillum est incididunt.\r\n",
+        "quantity": 21,
+        "companyName": "PARLEYNET",
+        "warranty": 1,
+        "price": "5,637.50",
+        "Title": "Lowery",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lenovo_G500s_laptop-2905.jpg",
+          "https://images-na.ssl-images-amazon.com/images/G/01/pc/ac/es-gaming-white.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "description": "Exercitation excepteur cupidatat officia aute sit anim adipisicing. Deserunt sint esse in proident id veniam dolore mollit laborum non tempor est. Nostrud est dolor duis laborum est culpa. Anim anim esse est occaecat aute do ad anim occaecat aliqua Lorem. Enim ipsum culpa occaecat eiusmod aliqua est dolor eu. Deserunt eu magna proident qui fugiat irure tempor in sunt. Ullamco nisi enim fugiat sunt occaecat velit occaecat.\r\n",
+        "quantity": 29,
+        "companyName": "TOYLETRY",
+        "warranty": 4,
+        "price": "1,284.57",
+        "Title": "Karyn",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lenovo_G500s_laptop-2905.jpg",
+          "https://cdn.vox-cdn.com/thumbor/muT6boZgiHQdkN0-4f6BTyeTv9M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/59096461/akrales_180320_2397_0039.0.jpg"
+        ]
+      },
+      {
+        "id": 4,
+        "description": "Cillum commodo reprehenderit officia excepteur. Mollit occaecat voluptate dolore exercitation sit nisi in labore do sint consectetur ea velit. Deserunt est ut ea elit irure aute. Do ex nulla fugiat labore id eiusmod aute cupidatat enim. Veniam aliquip nostrud nostrud reprehenderit tempor est reprehenderit. Ipsum duis nisi eiusmod dolore aliquip aute officia aliqua officia do tempor sunt laborum excepteur.\r\n",
+        "quantity": 5,
+        "companyName": "GLOBOIL",
+        "warranty": 1,
+        "price": "6,877.56",
+        "Title": "Rachael",
+        "images": [
+          "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/11/surface-book-2-15-png-01.png?itok=ac1r497q",
+          "https://cdn.mos.cms.futurecdn.net/cndBsdKvcSFbnh7srJhRzS-320-80.jpg"
+        ]
+      },
+      {
+        "id": 5,
+        "description": "Commodo ea nisi nulla labore cillum proident veniam deserunt incididunt adipisicing. Id aute laboris qui tempor labore labore dolore elit amet. Et reprehenderit consectetur occaecat ut aute. Id voluptate irure consectetur occaecat incididunt quis Lorem adipisicing dolore id id labore exercitation. Veniam tempor irure ullamco ut minim consectetur irure minim laboris aute id nisi. Quis aute Lorem labore exercitation ex occaecat sint cillum quis et ea duis mollit.\r\n",
+        "quantity": 22,
+        "companyName": "JASPER",
+        "warranty": 3,
+        "price": "1,325.09",
+        "Title": "Mendez",
+        "images": [
+          "https://cdn.mos.cms.futurecdn.net/cndBsdKvcSFbnh7srJhRzS-320-80.jpg",
+          "https://cdn.vox-cdn.com/thumbor/muT6boZgiHQdkN0-4f6BTyeTv9M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/59096461/akrales_180320_2397_0039.0.jpg"
+        ]
+      },
+      {
+        "id": 6,
+        "description": "Excepteur aliquip occaecat exercitation pariatur. Aliqua amet qui ipsum et id ut minim. Dolor officia esse ex reprehenderit esse ipsum minim. Aliqua pariatur cillum pariatur ex. Consectetur laboris enim sunt voluptate nulla incididunt tempor.\r\n",
+        "quantity": 26,
+        "companyName": "STEELTAB",
+        "warranty": 3,
+        "price": "2,362.33",
+        "Title": "Mcguire",
+        "images": [
+          "https://i5.wal.co/dfw/4ff9c6c9-cb2a/k2-_7930e1af-4df6-4839-ba10-e7ff6d3c6d1a.v1.jpg?odnWidth=282&odnHeight=282&odnBg=ffffff",
+          "https://www.costco.ca/wcsstore/CostcoCABCCatalogAssetStore/category-tiles/2-in-1-laptops.jpg"
+        ]
+      },
+      {
+        "id": 7,
+        "description": "Id id sunt duis ea elit adipisicing commodo nostrud do aliquip quis mollit nostrud. Amet magna fugiat qui ea eiusmod nostrud ut laboris irure exercitation. Lorem reprehenderit aute incididunt non et dolore sint officia est. Aute occaecat pariatur ipsum proident.\r\n",
+        "quantity": 23,
+        "companyName": "NORALEX",
+        "warranty": 1,
+        "price": "6,558.27",
+        "Title": "Mclaughlin",
+        "images": [
+          "https://images-na.ssl-images-amazon.com/images/G/01/pc/ac/es-gaming-white.jpg",
+          "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05975535.png"
+        ]
+      }
+    ]
+  }
