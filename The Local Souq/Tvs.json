@@ -4,6 +4,7 @@
     "Products": [
       {
         "id": 0,
+		"price": "10,311.10",
         "Title": "Tasha",
         "images": [
           "https://images-na.ssl-images-amazon.com/images/I/41JSJaZnyDL.jpg",
@@ -12,6 +13,7 @@
       },
       {
         "id": 1,
+		"price": "1,311.10",
         "Title": "Chelsea",
         "images": [
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXxVgZQjUtVDdv08I165_axeYceyjbB3EsKRspoGuyymzThmKtHw",
@@ -20,6 +22,7 @@
       },
       {
         "id": 2,
+		"price": "2,311.10",
         "Title": "Hendrix",
         "images": [
           "https://images-na.ssl-images-amazon.com/images/I/41JSJaZnyDL.jpg",
@@ -28,6 +31,7 @@
       },
       {
         "id": 3,
+		"price": "3,311.10",
         "Title": "Macias",
         "images": [
           "https://multimedia.bbycastatic.ca/multimedia/products/500x500/104/10403/10403595.jpg",
@@ -37,6 +41,7 @@
       {
         "id": 4,
         "Title": "Todd",
+		"price": "4,311.10",
         "images": [
           "https://img.etimg.com/thumb/msid-64565598,width-300,imgsize-247010,resizemode-4/samsung.jpg",
           "https://cf3.s3.souqcdn.com/item/2018/04/19/33/42/22/70/item_L_33422270_130796324.jpg"
@@ -44,6 +49,7 @@
       },
       {
         "id": 5,
+		"price": "5,311.10",
         "Title": "Concepcion",
         "images": [
           "https://cf3.s3.souqcdn.com/item/2018/04/19/33/42/22/70/item_L_33422270_130796324.jpg",
@@ -52,6 +58,7 @@
       },
       {
         "id": 6,
+		"price": "6,311.10",
         "Title": "Hendricks",
         "images": [
           "https://images-na.ssl-images-amazon.com/images/I/41JSJaZnyDL.jpg",
@@ -60,6 +67,7 @@
       },
       {
         "id": 7,
+		"price": "7,311.10",
         "Title": "Margret",
         "images": [
           "https://cf2.s3.souqcdn.com/item/2018/01/02/29/84/17/33/item_XL_29841733_87347821.jpg",
