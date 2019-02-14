@@ -1,7 +1,7 @@
 var noOfItemsInCart = 0;
 var arrOfCartItems = [];
 
-onload=function(){    
+onload=function(){   
 var cartContent = document.querySelector("#cartContent");
     
 var cartNo = document.querySelector("#cartNo"); 
@@ -14,17 +14,15 @@ if (noOfItemsInCart == 0){
     cartContent.innerText = "You have no items in your cart yet!";
 }
 else if (noOfItemsInCart > 0){
+    
     var tmpStr = localStorage.getItem("arrOfCartItems");
     arrOfCartItems = JSON.parse(tmpStr);
-    
+    console.log(arrOfCartItems);
     for(var i=0; i<arrOfCartItems.length; i++){
-        displayCartItem(arrOfCartItems[i]);
-        
+        displayCartItem(arrOfCartItems[i]);   
     }
     
 }
-    
-    
 }; //onload
 
 
@@ -68,3 +66,8 @@ function displayCartItem(curItem){
     cartContent.appendChild(tmpDivItem);
 };
 
+
+
+window.onunload = function() {
+    localStorage.setItem("arrOfCartItems", JSON.stringify(arrOfCartItems))
+};

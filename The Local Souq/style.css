@@ -175,21 +175,28 @@ div ul li a:hover{
 #picdiv{
    width: 100%;
 }
+/*
 #products {
     
 margin-left: 80px;
 }
+*/
+/*
 #product img{
     //display: block;
     height: 190px;
     display: block;
 }
+*/
+/*
 #product {
     font-size: 22;
      width: 300px;
     height: 350px;
     display: inline-block;
 }
+*/
+/*
 #product button{
     border-radius: 8px;
     width: 30px;
@@ -198,6 +205,7 @@ margin-left: 80px;
     font-family: fantasy;
     background-color: lightcyan;
 }
+*/
 #product button:focus{
     outline:0;
 }
@@ -205,10 +213,12 @@ margin-left: 80px;
     margin-left: 60px;
 
 }
+/*
 #products img{
     
 margin-left: 80px;
 }
+*/
 #picdiv #im1
 {
     width: 700;

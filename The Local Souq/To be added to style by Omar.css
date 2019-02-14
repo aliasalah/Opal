@@ -1,3 +1,4 @@
+/*this will be added in the main stylng file with its corresponding html part*/
 #cartNo{
     display: inline-block;
     position: relative;
@@ -15,6 +16,8 @@
     
 }
 
+
+/*this will be added in separate file for the cart page*/
 #cartContent{
     color: dimgray;
     margin: auto;
@@ -60,6 +63,57 @@
     
 }
 
+
+
+
+/*////////////////////////////////////////////////////////*/
+/*this will be added in a separate file for the category page*/
+
+#products{
+    color: dimgray;
+    font-size: 24px;
+    margin: auto 40px;
+}
+
+.quarter {
+    display: inline-block;
+    width: 50%;
+    font-size: 24px;
+}
+
+.quarter table {
+    margin: 20px auto;
+    border-spacing: 0;
+    border-collapse: collapse;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+}
+
+.quarter img{
+    height: 150px;
+    width: 200px;
+    margin: 10px;
+    
+}
+
+.quarter tr{
+    border: 1px solid cadetblue;
+    margin: 0;
+}
+.quarter td button, .quarter td{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+        
+}
+
+.quarter table .material-icons{
+    font-size: 35px;
+    line-height: 40px;
+    margin-top: 5px;
+    
+}
 
 
 
