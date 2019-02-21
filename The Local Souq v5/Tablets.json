@@ -1,0 +1,187 @@
+ {
+    "_id": "5c608582bae7d9d9904ec408",
+    "Title": "Tablets",
+    "Products": [
+  {
+    "id": 0,
+    "warranty": 4,
+    "Title": "Huffman",
+    "quantity": 18,
+    "company": "YURTURE",
+    "price": 2688.07,
+    "description": "Magna in aliquip anim pariatur cillum non qui voluptate officia nisi tempor nisi. Sunt nulla tempor qui nostrud est ipsum esse commodo eu sunt nostrud fugiat fugiat. Cupidatat laboris voluptate ad incididunt. Ea cupidatat irure eiusmod sunt adipisicing. Sit sit voluptate aliquip sint eu amet aliqua nisi cillum minim. Tempor consequat qui ut tempor eiusmod ea.\r\n",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUrffYQzQUTy9gdZxX_LNWNYmJS-SmSJZzn88d69kClz28G559"
+    ]
+  },
+  {
+    "id": 1,
+    "warranty": 5,
+    "Title": "Lidia",
+    "quantity": 15,
+    "company": "TECHADE",
+    "price": 2891.69,
+    "description": "Adipisicing labore sit officia nisi excepteur consequat. Cupidatat sint ullamco aliqua dolore commodo reprehenderit excepteur. Quis excepteur dolore adipisicing ut esse Lorem excepteur cillum sit. Do labore anim quis eiusmod minim velit Lorem quis excepteur aute consectetur qui amet. Velit culpa voluptate reprehenderit veniam elit ut id esse ut aliquip cupidatat occaecat anim. Laborum exercitation aliqua ex sint proident adipisicing ad deserunt Lorem magna dolor.\r\n",
+    "images": [
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/104/10424/10424755.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "warranty": 4,
+    "Title": "Roxanne",
+    "quantity": 22,
+    "company": "RAMJOB",
+    "price": 1684.66,
+    "description": "Laborum ullamco veniam ex eiusmod enim. Occaecat adipisicing mollit labore laborum consectetur anim duis culpa cillum in consequat eu. Sint ut nisi cillum commodo aute exercitation commodo non exercitation reprehenderit.\r\n",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQf2Tvufx6ta91WkMVBJH7Ps2zUunETTBIhBE_wsrQz5D1g0tMA"
+    ]
+  },
+  {
+    "id": 3,
+    "warranty": 4,
+    "Title": "Singleton",
+    "quantity": 19,
+    "company": "TASMANIA",
+    "price": 2048.9,
+    "description": "Qui do amet consequat incididunt Lorem ex sit non elit occaecat quis nulla ad cupidatat. Mollit ex eiusmod minim ullamco eiusmod aliquip veniam proident. Commodo eiusmod incididunt ipsum enim do duis Lorem.\r\n",
+    "images": [
+      "https://cdn.mos.cms.futurecdn.net/iuuRe5i5Xgeq7LeHWGqnUE-320-80.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "warranty": 3,
+    "Title": "Felecia",
+    "quantity": 21,
+    "company": "GEEKOL",
+    "price": 2286.43,
+    "description": "Commodo magna adipisicing occaecat dolor. Nostrud enim aute quis aute. Proident elit culpa ullamco duis cillum id. Proident commodo ut aliquip quis. Enim tempor mollit tempor laboris proident. Ut aute sit ex elit fugiat commodo.\r\n",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR3iRTGsFPhjyfJdkXbBZNMzcvl37v3OQ1Dk2oPXhH_NNizNAo"
+    ]
+  },
+  {
+    "id": 5,
+    "warranty": 4,
+    "Title": "Gilliam",
+    "quantity": 13,
+    "company": "PYRAMI",
+    "price": 2377.76,
+    "description": "Ipsum tempor et officia ullamco sint elit. Sit proident Lorem dolor irure consequat minim ipsum aute cillum deserunt. Lorem mollit sit labore eu elit velit sunt occaecat veniam et ad sit proident ipsum. Deserunt dolor esse anim dolor amet quis nulla fugiat laboris sint adipisicing exercitation ullamco laboris.\r\n",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67uKfA4__A1BMxiwWPAu9_KEXUcm5xwlFf9WU088nYKyBHxS3UQ"
+    ]
+  },
+  {
+    "id": 6,
+    "warranty": 5,
+    "Title": "Estelle",
+    "quantity": 8,
+    "company": "MENBRAIN",
+    "price": 1170.78,
+    "description": "Commodo elit consequat dolor enim cillum aliquip. Aute et ea laborum dolore sint veniam sit. Elit dolor tempor proident duis amet ad duis sunt magna magna do ea et. Sint excepteur laborum in nulla nostrud cupidatat. Labore laborum officia fugiat est pariatur ea voluptate aute elit laborum tempor. Non eiusmod aliqua magna proident magna consequat veniam magna irure ad ea eiusmod magna tempor. Cillum ut non adipisicing reprehenderit.\r\n",
+    "images": [
+      "https://ae01.alicdn.com/kf/HTB1i7ZPalcXBuNjt_Xoq6xIwFXaH/Unlock-3G-4G-FDD-LTE-tablet-Android-7-0-OS-10-inch-tablet-pc-Octa-Core.jpg_640x640.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "warranty": 5,
+    "Title": "Hart",
+    "quantity": 13,
+    "company": "TECHMANIA",
+    "price": 3885.38,
+    "description": "Exercitation commodo sunt anim ut ipsum. Voluptate nostrud elit ex magna veniam qui proident eu ut proident ad in enim. Aliquip exercitation sit fugiat est anim nostrud reprehenderit. Commodo culpa laborum pariatur dolore elit anim pariatur elit sunt.\r\n",
+    "images": [
+      "https://ae01.alicdn.com/kf/HTB1auYqreuSBuNjSsziq6zq8pXap/2019-New-10-inch-Tablet-PC-Octa-Core-4GB-RAM-32GB-ROM-Dual-SIM-Cards-Android.jpg_640x640.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "warranty": 3,
+    "Title": "Tia",
+    "quantity": 5,
+    "company": "OVATION",
+    "price": 2454.92,
+    "description": "Duis Lorem Lorem et dolor deserunt aute ex labore commodo in. Deserunt labore cupidatat id ipsum magna non enim ex dolore minim sint nisi. Anim proident ipsum ullamco officia excepteur sunt nisi voluptate do nostrud dolore nisi ex. Consequat cupidatat aliqua elit non do aliqua incididunt dolor voluptate aliqua occaecat proident dolore magna. Officia elit nulla elit eiusmod eiusmod ex aliquip magna. Ipsum aliquip qui ipsum mollit eiusmod veniam quis mollit quis. Laboris veniam sint exercitation officia ut aliquip laborum.\r\n",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98HlR3oD32G9FVrRsD6iT7Z1ECwdo6gkl74dRfchrlAiaqHkA-A"
+    ]
+  },
+  {
+    "id": 9,
+    "warranty": 3,
+    "Title": "Lydia",
+    "quantity": 11,
+    "company": "SEQUITUR",
+    "price": 3939.6,
+    "description": "Qui amet irure minim proident. Exercitation esse aute occaecat culpa voluptate duis velit laborum. Sint voluptate consectetur qui aute sint non ea ut dolor exercitation adipisicing dolore veniam aliquip. Commodo quis Lorem duis incididunt commodo do laborum nostrud duis quis nostrud commodo cupidatat. Mollit commodo laboris pariatur dolore irure. Dolore ipsum pariatur nulla officia ad. Enim et id nulla occaecat culpa anim proident.\r\n",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5W1W1PEChEd8SUU8FVY5IhctDWuT2yevhsTgVy-T2sC8X0l1JUw"
+    ]
+  },
+  {
+    "id": 10,
+    "warranty": 5,
+    "Title": "Lancaster",
+    "quantity": 19,
+    "company": "GEEKUS",
+    "price": 2228.85,
+    "description": "Ad sunt reprehenderit reprehenderit qui deserunt duis. Dolor excepteur ut fugiat reprehenderit consequat excepteur enim. Fugiat cupidatat exercitation laboris irure. Labore incididunt non in exercitation fugiat culpa occaecat Lorem mollit dolor quis anim exercitation veniam. Occaecat do ullamco culpa ut. Nulla est labore cillum Lorem. In deserunt anim quis anim occaecat ad.\r\n",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQf2Tvufx6ta91WkMVBJH7Ps2zUunETTBIhBE_wsrQz5D1g0tMA"
+    ]
+  },
+  {
+    "id": 11,
+    "warranty": 3,
+    "Title": "Cooke",
+    "quantity": 13,
+    "company": "BIZMATIC",
+    "price": 3602.76,
+    "description": "Exercitation dolor Lorem sint incididunt ea laborum nostrud ex ex. Nulla eiusmod nostrud voluptate magna velit minim eiusmod deserunt commodo irure in consectetur. Ex culpa deserunt tempor ex officia mollit. Veniam quis irure irure aliqua officia velit cupidatat. Deserunt ex do Lorem aliquip ad mollit. Lorem quis excepteur reprehenderit adipisicing nulla veniam excepteur fugiat ex consectetur velit exercitation sunt consequat. Reprehenderit proident commodo dolor esse Lorem esse exercitation pariatur.\r\n",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC5zUn9MFpxpm0AXoXn_rFudCJX62XXoozo6lVeC_Sj6K77GP2"
+    ]
+  },
+  {
+    "id": 12,
+    "warranty": 3,
+    "Title": "Sanders",
+    "quantity": 18,
+    "company": "ELENTRIX",
+    "price": 2998.38,
+    "description": "Sunt laboris sit proident qui excepteur cupidatat aliquip enim nisi quis proident. Ad ipsum minim do in. Eu esse elit reprehenderit veniam excepteur ullamco ut. Nostrud esse duis nulla laboris eu laboris deserunt aliqua do.\r\n",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUEMXesIxQ_G-ftN9IrmvY6xnFnHEu_qK_40WbIXJ0IhA7teroTg"
+    ]
+  },
+  {
+    "id": 13,
+    "warranty": 4,
+    "Title": "Elena",
+    "quantity": 2,
+    "company": "ELENTRIX",
+    "price": 3000,
+    "description": "Sunt laboris sit proident qui excepteur cupidatat aliquip enim nisi quis proident. Ad ipsum minim do in. Eu esse elit reprehenderit veniam excepteur ullamco ut. Nostrud esse duis nulla laboris eu laboris deserunt aliqua do.\r\n",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXmK9CO0ALAWgC0JH1OR-0Bbmqzf3yUKDmtr3COQz8m4xMxyg"
+    ]
+  },
+  {
+    "id": 14,
+    "warranty": 3,
+    "Title": "Jes",
+    "quantity": 2,
+    "company": "Jess",
+    "price": 3500,
+    "description": "Eu esse elit reprehenderit veniam excepteur ullamco ut. Nostrud esse duis nulla laboris eu laboris deserunt aliqua do.\r\n",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfBg6_frjCOGL6UN-s79xSZhiW6CT_pT6Qyipfdv4vunl6AYoV"
+    ]
+  }
+]
+    
+  }

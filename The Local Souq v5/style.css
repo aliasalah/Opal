@@ -1,0 +1,411 @@
+table > tr > td > img {
+    cursor: pointer;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.mar {
+    margin-top: 2%;
+}
+
+.row {
+    display: flex;
+    flex-flow: wrap;
+
+}
+
+#header {
+    background-color: black;
+
+}
+
+.header {
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+
+}
+
+.header li {
+    color: white;
+    margin-right: 10%;
+    margin-top: 0.5em;
+}
+
+/*search*/
+.ser {
+    background-color: white;
+    position: sticky;
+    top: 0;
+}
+
+#FreeShippingtext {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    color: black;
+}
+
+#FreeShipping:hover #FreeShippingtext {
+    display: block;
+}
+
+#ser {
+    z-index: 999;
+}
+
+#FreeShippingtext {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    color: black;
+}
+
+#FreeShipping:hover #FreeShippingtext {
+    display: block;
+}
+
+#freertext {
+    display: none;
+    position: absolute;
+    left: 1000px;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    color: black;
+}
+
+#freert:hover #freertext {
+    display: block;
+}
+
+#cashtext {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    color: black;
+}
+
+#cash:hover #cashtext {
+    display: block;
+}
+
+
+
+/*customerser*/
+
+#help {
+    margin-top: 2%;
+    height: 120px;
+    background-color: black;
+}
+
+#serchdiv {
+    margin: auto;
+    width: 800px;
+}
+
+#helptext {
+    border-radius: 0 !important;
+    height: 50px;
+    width: 650px;
+    margin-right: 0;
+}
+
+#helptext::-webkit-calendar-picker-indicator {
+    display: none;
+}
+
+#helpbtn {
+    border-radius: 0 !important;
+    height: 50px;
+    width: 100px;
+    margin-left: 0;
+}
+
+/*frqrq*/
+#comptable {
+    margin-left: 30px;
+}
+
+#comptable td {
+    padding: 8px;
+
+}
+
+.piccust {
+    margin: auto;
+    width: 1300px;
+}
+
+.piccustimg {
+    display: inline-block;
+    width: 400px;
+
+}
+
+/*counterfeitpage*/
+.counter {
+    width: 800px;
+    margin: 20px;
+}
+
+
+/*#*/
+.searchtxt {
+
+    top: 10px;
+    width: 600px;
+    border-radius: 20%;
+    border: solid;
+    font-size: 1.2em;
+    height: 30px;
+    /* padding: 6px;*/
+}
+
+/*#*/
+.searchtxt:focus {
+    outline: 0;
+}
+
+#mag {
+    height: 1.8em;
+    position: relative;
+    left: -50px;
+    cursor: pointer
+}
+
+#mag:hover {
+    background-color: blue;
+
+}
+
+/* Dropdown Button */
+.dropdown {
+    margin-top: 8%;
+
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    text-decoration: none;
+    text-align: center;
+    color: darkcyan;
+}
+
+.dropbtn {
+    background-color: blueviolet;
+    color: white;
+    /*
+  padding: 16px;
+  font-size: 16px;
+*/
+    border: none;
+    border-radius: 10%;
+    width: 80%;
+    height: 1.8em;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+    z-index:
+}
+
+.dropdown-content a {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: skyblue;
+}
+
+
+
+
+.stc {
+    background-color: white;
+    position: sticky;
+    top: 0;
+}
+
+#FreeShippingtext {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    color: black;
+}
+
+#FreeShipping:hover #FreeShippingtext {
+    display: block;
+}
+
+
+.Alpha {
+    width: 8.33%;
+}
+
+.Bravo {
+    width: 16.66%;
+}
+
+.Charlie {
+    width: 25%;
+}
+
+.Delta {
+    width: 33.33%;
+}
+
+.Foxtrot {
+    width: 50%;
+}
+
+.Juliet {
+    width: 83.33%;
+}
+
+.Lima {
+    width: 100%;
+}
+/*navigator*/
+.nav {
+
+
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    position: sticky;
+    top: 80px;
+}
+
+#nav {
+
+    height: 50pt;
+    /*2%;*/
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+
+/*#nav
+{
+        height: 50pt;
+             list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+             background-color:black;
+           }
+*/
+div ul li a:hover {
+    color: cadetblue;
+}
+
+li a {
+    color: gray;
+    text-decoration: none;
+}
+
+#flist {
+    list-style: none;
+    margin-left: 8pt;
+
+}
+
+.limarg {
+    margin-left: 10pt;
+    margin-top: 3pt;
+}
+
+
+#picdiv {
+    margin-top: 2%;
+    width: 100%;
+    text-align: center;
+}
+
+
+#product button:focus {
+    outline: 0;
+}
+
+#product label {
+    margin-left: 60px;
+
+}
+
+#picdiv #im1 {
+    width: 700;
+    height: 400;
+
+}
+
+#cart {
+    width: 50px;
+    left: 60px;
+    background-color: white;
+}
+
+input::-webkit-calendar-picker-indicator {
+    opacity: 0;
+
+}
+
+
+#left, #right {
+    width: 50;
+    height: 50;
+    position: relative;
+    top: -170px;
+    /*z-index: -1;*/
+}
+
+.footer {
+    background-color: silver;
+
+}
+
+#footer {
+    margin: 10pt;
+    margin-bottom: 20pt;
+}

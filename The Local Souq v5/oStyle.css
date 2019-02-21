@@ -1,0 +1,80 @@
+tr td input {
+    text-align: center;
+    padding: 10px;
+    /*border-radius: 12px;*/
+    border-style: none;
+    /*border-bottom: 2px solid;*/
+    font-family: "Georgia";
+    width: 260px;
+    margin-top: 5px;
+}
+
+tr td i {
+    width: 50px;
+}
+
+tr td input:focus {
+    outline: none;
+    border-bottom: 2px solid cadetblue;
+}
+
+#rdmale,
+#rdfemale {
+    width: 20px;
+}
+
+body {
+    text-align: center;
+    //font-size: 22px;
+    /*;*/
+
+}
+
+form {
+    display: inline-block;
+    font-family: "Georgia";
+    font-size: 25px;
+}
+
+form fieldset {
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: cadetblue;
+    width: 450px;
+}
+
+#loginBtn {
+    margin-top: 9px;
+    width: 100px;
+    font-size: 22px;
+    background-color: lightblue;
+    color: black;
+    border-radius: 50px;
+}
+
+#loginBtn:focus {
+    outline: none;
+}
+
+#Register {
+    margin-top: 9px;
+    width: 150px;
+    font-size: 22px;
+    background-color: lightblue;
+    color: black;
+    border-radius: 50px;
+}
+
+#Register:focus {
+    outline: none;
+}
+
+#labcheckprice {
+    text-align: center;
+    font-size: 20pt;
+    padding-top: 30px;
+    padding-bottom: 40px;
+
+
+
+}

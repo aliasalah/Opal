@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Zircon - Registeration</title>
+    <link rel="stylesheet" href="./font-awesome.css">
+    <style>
+        @import url(oStyle.css);
+        @import url(style.css);
+    </style>
+    <script src="cookiesLib.js"></script>
+    <script src="Registeration.js"></script>
+
+    <script src="jquery-3.3.1.js"></script>
+
+</head>
+<body>
+   
+          <div class="row" id="header">
+
+              <div class="Delta"></div>
+              <div class="Delta">
+                <ul class="row header ">
+                    <li id="FreeShipping">Free Shipping
+                    <span id="FreeShippingtext">All orders of 250.00 EGP or more on eligible items across any product category qualify for FREE Shipping. </span>
+                    </li>
+                    
+                    <li id="cash">Cash on Delivery
+                    <span id="cashtext">Pay for your order in cash at the moment the shipment is delivered to your doorstep.</span>
+                    
+                    </li>
+                    <li id="freert">Free Returns
+                    <span id="freertext">Changed your mind, you can return your product and get a full refund. </span>
+                    
+                    </li>
+                </ul>
+              </div>
+            </div>
+            
+<!--            search bar-->
+          <div class="row ">
+              <div class="Bravo ">
+                  <a href="./Home.html"><img src="logo.PNG"  width="100px;" height="80px"></a>
+              </div>
+            
+    </div>
+             
+
+
+
+<form >
+<fieldset> <legend>Register</legend>
+<table>
+<tr>
+    <td>
+         <i class="fa fa-user" ></i>
+    </td>
+    <td> <input id="username" name="unameTxt" type="text" autocomplete="off" pattern="[a-zA-Z0-9_]{0,20}" placeholder="Enter your User Name" required> </td>
+</tr>
+<tr>
+    <td>
+         <i class="fa fa-address-card-o" ></i>
+    </td>
+    <td> <input name="fnameTxt" id="fname" type="text" autocomplete="off" pattern="[a-zA-Z0-9]{0,10}" placeholder="Enter your First Name" required> </td>
+</tr>
+<tr> 
+    <td>
+         <i class="fa fa-address-card-o" ></i>
+    </td>
+    <td> <input name="lnameTxt" id="lname"type="text" autocomplete="off" pattern="[a-zA-Z0-9]{0,10}" placeholder="Enter your Last Name" required> </td> 
+</tr>
+<tr>
+    <td>
+         <i class="fa fa-envelope-o" ></i>
+    </td>
+    <td><input id="mailTxt" type="email" name="emailTxt" autocomplete="off" placeholder="Enter your Email" required></td>
+</tr>
+<tr>
+    <td><i class="fa fa-lock" ></i></td>
+   <td> <input id="pwTxt" name="pwTxt" type="password" autocomplete="off" placeholder="Enter your Password"> 
+</tr>
+
+<tr>
+     <td><i class="fa fa-calendar-o" ></i></td>
+    <td><input type="date" autocomplete="off" name="dateInp" required></td>
+</tr>
+
+
+<tr>
+    <td colspan="2">
+     <input type="radio" id="rdmale" name="Gender" value="m" required> <label for="rdmale">Male</label> 
+     <input type="radio" id="rdfemale" name="Gender" value="f" required> <label for="rdfemale">Female</label>
+    
+    </td>
+</tr>
+
+
+
+<tr><td  class="verywidecol" colspan="2"><input type="button" value="Register" id="Register"></td>
+<td><span id="incorrect"></span></td>
+</tr>
+
+<tr><td colspan="2"><div>Aleady have an account <a href="loginPage.html">login from here</a></div></td></tr>
+
+</table>
+</fieldset>
+</form>
+  
+    <br>
+
+</body>
+</html>

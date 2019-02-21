@@ -1,0 +1,199 @@
+<html>
+<head>
+    <title>Zircon - Counterfeit</title>
+    <style>
+        @import url(style.css);
+        @import url(Category.css);
+        @import url("styles.css");
+    </style>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <script src="cookiesLib.js"></script>
+    <script src="jquery-3.3.1.js"></script>
+    <script src="jquery.autocomplete.min.js"></script>
+    <script src="SearchAutoComplete.js"></script>
+</head>
+
+<body>
+
+    <!--           first bar-->
+    <div class="row" id="header">
+        <div class="Delta">
+            <ul class="row header">
+
+                <li><a href="customrservice.html">Customer Service</a></li>
+
+            </ul>
+        </div>
+        <div class="Delta"></div>
+        <div class="Delta">
+            <ul class="row header ">
+                <li id="FreeShipping">Free Shipping
+                    <span id="FreeShippingtext">All orders of 250.00 EGP or more on eligible items across any product category qualify for FREE Shipping. </span>
+                </li>
+
+                <li id="cash">Cash on Delivery
+                    <span id="cashtext">Pay for your order in cash at the moment the shipment is delivered to your doorstep.</span>
+
+                </li>
+                <li id="freert">Free Returns
+                    <span id="freertext">Changed your mind, you can return your product and get a full refund. </span>
+
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!--            search bar-->
+    <div class="row ser">
+        <div class="Bravo ">
+            <a href="./Home.html"><img src="logo.PNG" width="100px;" height="80px"></a>
+        </div>
+
+
+        <div class="Foxtrot mar">
+            <input type="text" class="searchtxt" id="autocomplete">
+
+        </div>
+        <div class="mar" id="mag">
+            <li class="material-icons">
+                search</li>
+        </div>
+        <div class="Bravo">
+            <div class="dropdown mar">
+                <button class="dropbtn">Hello.login</button>
+                <div class="dropdown-content">
+                    <a href="Registeration.html">Register</a>
+                    <a href="loginPage.html">Login</a>
+                </div>
+            </div>
+        </div>
+        <div>
+            <a href="reviewYourCart.html"><img src="cart.png" id="cart"><span id="cartNo">0</span></a>
+
+        </div>
+
+    </div>
+    <!--        Navigator    -->
+
+    <div class="nav">
+        <div class="Alpha"></div>
+        <ul class="Juliet" id="nav">
+            <li><a href="#">All Categories</a></li>
+            <li id="TabCat"><a href="Category.html" value="Tablets.json">Mobile&amp;Tablets</a></li>
+            <li id="TVCat"><a href="Category.html" value="Tvs.json">Tvs</a></li>
+            <li id="LapCat"><a href="Category.html" value="Laptops.json">Laptops</a></li>
+            <li><a href="Category.html" value="Appliances.json">Appliances</a></li>
+            <li><a href="Category.html" value="Toys.json">Toys</a></li>
+
+        </ul>
+        <div class="col1"></div>
+
+
+
+    </div>
+
+
+    <h2 class="counter">I Got a Counterfeit Item</h2>
+    <p class="counter">
+
+        If you believe you have received a counterfeit product, subject to return (in accordance with Souq.com’s returns policy) of the affected product to us within 15 days of its delivery and satisfaction of our assessment and validation process, you will be entitled to receive a full refund of the price paid for the product, along with any shipping fees applied.
+        If the 15-days return window has expired, please contact our Customer Service for assistance.
+        Note: All items which are returned will be assessed and validated before they are accepted for a refund. If the stated issue is not found in the product you return, or if you return a product otherwise not eligible for a refund as listed in Souq.com’s return policy, the product will be sent back to you and your claim for a refund will be rejected.
+
+    </p>
+
+
+
+
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <div class="row footer">
+        <div class="row Lima" id="footer">
+
+            <div class="Charlie">
+                <h3>POPULAR SEARCHES</h3>
+                <ul>
+                    <li><a href="">White Friday</a></li>
+                    <li><a href="">IPhone 6</a></li>
+                    <li><a href="">Samsung Galaxy S6</a></li>
+                </ul>
+            </div>
+
+
+            <div class="Charlie">
+                <h3>MY ACCOUNT</h3>
+                <ul>
+                    <li><a href="">Log In / Register</a></li>
+                    <li><a href="">My Shopping Cart</a></li>
+                    <li><a href="">Account Settings</a></li>
+                </ul>
+            </div>
+
+            <div class="Charlie">
+                <h3>BUYING ON SOUQ.COM</h3>
+                <ul>
+                    <li><a href="">How to Buy</a></li>
+                    <li><a href="">Return Policy</a></li>
+                    <li><a href="">Help</a></li>
+                </ul>
+            </div>
+
+            <div class="Charlie">
+
+                <h3>SELLING ON SOUQ.COM</h3>
+                <ul>
+                    <li><a href="">How It Works</a></li>
+                    <li><a href="">Selling Policies</a></li>
+                    <li><a href="">Fulfilled by Souq</a></li>
+                </ul>
+            </div>
+
+
+        </div>
+    </div>
+    <script>
+        document.getElementById("mag").addEventListener('click', function() {
+            var text = document.getElementById('autocomplete').value;
+            localStorage.setItem('TextSearch', text);
+            window.location.href = 'SearchPage.html';
+        });
+
+        //show the name of the user loggeg in
+        window.addEventListener("load", function(e) {
+            dropbtn = document.querySelector(".dropbtn");
+            dropdownContent = document.querySelector(".dropdown-content");
+            if (hasCookie("userName")) {
+                dropbtn.innerText = "Hello " + getCookie("userName");
+                var LogoutAnchor = document.createElement("a");
+                LogoutAnchor.innerText = "Logout";
+                LogoutAnchor.setAttribute("href", "#");
+                dropdownContent.innerHTML = '';
+                dropdownContent.appendChild(LogoutAnchor);
+                LogoutAnchor.onclick = function(e) {
+                    deleteCookie("email");
+                    deleteCookie("Password");
+                    deleteCookie("userName");
+                    sessionStorage.clear();
+                    location.reload();
+                };
+            };
+            var noOfItemsInCart;
+            var cartNo = document.querySelector("#cartNo");
+            if (sessionStorage.getItem("noOfItemsInCart") != null) {
+                noOfItemsInCart = sessionStorage.getItem("noOfItemsInCart");
+                cartNo.innerText = noOfItemsInCart;
+            }
+        });
+    </script>
+</body>
+</html>
